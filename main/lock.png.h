@@ -1,0 +1,9 @@
+#pragma once
+const uint8_t lock[] = {
+    0x78,
+    0x7e,
+    0x59,
+    0x49,
+    0x7e,
+    0x78,
+};
